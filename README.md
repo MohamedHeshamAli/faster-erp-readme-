@@ -6,25 +6,45 @@
 مع امكانيه البحث عن الاوردر والفلتره برقم العميل او اسمه او رقم الفاتوره .
 
  وامكانيه فتح عنوان الاوردر في خرائط جوجل او عند الضغط علي رقم العميل يفتح الرقم في الهاتف للاتصال به .
+ 
 2.اداره المشتريات: الاضافه والحذف والبحث وتغيير السعر والخصم واضافه مرتجع وحذفه وتحويل الفاتوره لصوره ومشاركاتها.
+
 3.التسليم للمندوب وتغيير المندوب ويتم نقل قيمه الاوردرات
+
 4.التسليم للعميل 
-6. اداره العملاء 
+
+6. اداره العملاء
+7. 
 7.اداره المناديب ومعرفه ديون كل مندوب
+
 8.اداره الموردين ومعرفه مستحقاته من الاموال الاجله
+
 9.التوريد 
+
  10.الصرف 
+ 
 11.الفروع 
+
 12الخزن 
+
 13. والمدن ومناطق المدن
-14.اداره المنتجات والاقسام 
+14. 
+14.اداره المنتجات والاقسام
+
 15.اداره المستخدمين 
+
 16.اداره صلاحيات المستخدمين 
+
 17.اداره الموظفين
+
 18.مكافئات وخصومات الموظفين
+
 19.حضور وغياب الموظفين
+
  20.تعديل بيانات المنشأة 
+ 
 21.تقارير المبيعات  (مثل الاوردات اجمالي والاوردرات تفصيلي والاوردات بالمناديب والمستخدمين والعملاء واودرات المدن وارباح الاوردرات والاردرات الاكثر مبيعا والمرتجعات اجمال والمرتجعات تفصيلي وعدد عملاء كل محافظه والارباع بشكل اجمالي والارباح تفصيلي نافذه الاعمل)مع امكانيه فلتره التقارير بالمده او المندوب او المستخدم او العميل
+
 The application includes:
 
 1.Order Management: Adding, deleting, and modifying orders, changing the total price and discount, specifying payment method (cash or online), converting the invoice to an image or PDF, and printing it when the mobile is connected to a printer. Also, adding, deleting, and sharing returns, with the ability to search for orders and filter them by customer number, name, or invoice number. Additionally, the ability to open the order address in Google Maps or, when clicking on the customer number, the phone number opens for calling.
