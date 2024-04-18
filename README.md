@@ -1,8 +1,17 @@
 # faster erp readme
 
+details
+
+https://www.youtube.com/playlist?list=PL3dvmRdMVjB95TgGT4ZeWP90qGRs1cuaN
+
 gif
 
-https://github.com/MohamedHeshamAli/faster-erp-readme-/assets/54541528/79a23dfc-4875-4a90-bf44-ea9f23b9be9f
+
+
+https://github.com/MohamedHeshamAli/faster-erp-readme-/assets/54541528/5071f7c4-9de2-4a0a-9036-6c697d9f41f1
+
+
+
 
 
 
