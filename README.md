@@ -64,19 +64,20 @@ https://github.com/MohamedHeshamAli/faster-erp-readme-/assets/54541528/5071f7c4-
 
 The application includes:
 
+
 1.Order Management: Adding, deleting, and modifying orders, changing the total price and discount, specifying payment method (cash or online), converting the invoice to an image or PDF, and printing it when the mobile is connected to a printer. Also, adding, deleting, and sharing returns, with the ability to search for orders and filter them by customer number, name, or invoice number. Additionally, the ability to open the order address in Google Maps or, when clicking on the customer number, the phone number opens for calling.
 
-2.Purchasing Management: Adding, deleting, searching, changing prices, discounts, adding returns, deleting them, and converting the invoice to an image and sharing it.
+2.Purchasing Management: Adding, deleting, searching, changing prices, discounts, adding returns, deleting them, and converting the invoice to an image and sharing it
 
-3.Assignment to Courier and changing the courier, with the transfer of order values.
+3.order Shipping management, shipping company change and finances
 
-4.Delivery to the customer.
+4.Delivery to the customer
 
-5.Customer Management.
+5.Customer Management
 
-6.Courier Management and knowing the debts of each courier.
+6.delegator Management 
 
-7.Supplier Management and knowing their receivables from deferred payments.
+7.Supplier Management.
 
 8.Procurement.
 
@@ -102,6 +103,6 @@ The application includes:
 
 19.Establishment Data Modification.
 
-20.Sales Reports (such as total orders, detailed orders, orders by couriers, users, customers, city orders, order profits, top-selling orders, total returns, detailed returns, number of customers per province, quarterly profits, detailed profit windows), with the ability to filter reports by period, courier, user, or customer.
+20.Sales Reports (such as total orders, detailed orders, orders by delegators, users, customers, city orders, order profits, top-selling orders, total returns, detailed returns, number of customers per province, quarterly profits, detailed profit windows), with the ability to filter reports by period, delegators, user, or customer..
 
 
