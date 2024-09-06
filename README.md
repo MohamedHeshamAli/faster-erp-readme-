@@ -8,7 +8,10 @@ gif
 
 
 
-https://github.com/MohamedHeshamAli/faster-erp-readme-/assets/54541528/5071f7c4-9de2-4a0a-9036-6c697d9f41f1
+
+
+https://github.com/user-attachments/assets/d97565a0-6dab-4712-bf01-040cf72c4340
+
 
 
 
