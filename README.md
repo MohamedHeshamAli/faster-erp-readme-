@@ -1,8 +1,8 @@
 # faster erp readme
 
-details(old version)
+details
 
-https://www.youtube.com/playlist?list=PL3dvmRdMVjB95TgGT4ZeWP90qGRs1cuaN
+[https://www.youtube.com/playlist?list=PL3dvmRdMVjB95TgGT4ZeWP90qGRs1cuaN](https://www.youtube.com/playlist?list=PL3dvmRdMVjB9zyC6nHF2wgl2_j1O1Kx1H)
 
 gif
 
